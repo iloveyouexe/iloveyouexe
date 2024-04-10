@@ -4,7 +4,7 @@
 
 🌱 **Projects**:
 
-- `💾` **`"[chip8 emulator](https://github.com/iloveyouexe/Chip8)"`**<br>
+- `💾` **`chip8 emulator`**<br>
 \\___[ emulator simulating vintage program files on modern systems<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `cs`, `.net`
 
