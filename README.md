@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `cs`, `.net`
 
 - `🐁 ` **`bmo-labs`**<br>
-\\___[ fullstack blog hosted and deployed and hosted from my wip homelab<br>
+\\___[ fullstack blog hosted and deployed from my wip homelab<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `react`, `typescript`, `redux`
 
 
