@@ -14,5 +14,5 @@
 
 
 ## `👨‍💻` DEVELOPMENT
-[![](https://skillicons.dev/icons?i=typescript,react,cs,rust,bash,powershell,raspberrypi,neovim,vim,rider,vscode,arch,windows)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=typescript,react,cs,rust,bash,powershell,raspberrypi,neovim,vim,rider,arch,windows)](https://skillicons.dev)
 
