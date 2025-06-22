@@ -4,7 +4,7 @@
 
 🌱 **Projects**:
 
-- `🐄 ` **`moosic`**<br>
+- `🐄` **`moosic`**<br>
 \\___[ music insights, like wrapped but transparent <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `react`, `typescript`, `node`
 
@@ -12,7 +12,7 @@
 \\___[ emulator simulating vintage program files on modern systems<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `cs`, `.net`
 
-- `🐁 ` **`bmo-labs`**<br>
+- `🐁` **`bmo-labs`**<br>
 \\___[ fullstack blog hosted and deployed from my wip homelab<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `react`, `typescript`, `rust`
 
