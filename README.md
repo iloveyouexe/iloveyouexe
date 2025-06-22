@@ -4,13 +4,17 @@
 
 🌱 **Projects**:
 
+- `🐁 ` **`moosic`**<br>
+\\___[ music insights, like wrapped but transparent <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `react`, `typescript`, `node`
+
 - `💾` **`chip8 emulator`**<br>
 \\___[ emulator simulating vintage program files on modern systems<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `cs`, `.net`
 
 - `🐁 ` **`bmo-labs`**<br>
 \\___[ fullstack blog hosted and deployed from my wip homelab<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `react`, `typescript`, `redux`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `react`, `typescript`, `rust`
 
 
 ## `👨‍💻` DEVELOPMENT
