@@ -4,7 +4,7 @@
 
 🌱 **Projects**:
 
-- `🐄` **`moosic`**<br>
+- `🐄` **`skux`**<br>
 \\___[ music insights, like wrapped but transparent <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `react`, `typescript`, `node`
 
