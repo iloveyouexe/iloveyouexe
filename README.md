@@ -12,7 +12,7 @@
 \\___[ emulator simulating vintage program files on modern systems<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `cs`, `.net`
 
-- `🐁` **`bmo-labs`**<br>
+- `🐁` **`garden-labs`**<br>
 \\___[ fullstack blog hosted and deployed from my wip homelab<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `react`, `typescript`, `rust`
 
