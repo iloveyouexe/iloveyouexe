@@ -4,9 +4,9 @@
 
 🌱 **Projects**:
 
-- `🐄` **`skux`**<br>
-\\___[ music insights, like wrapped but transparent <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `react`, `typescript`, `node`
+- `🩻` **`intel.garden`**<br>
+\\___[ eve frontlines analytics <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `react`, `typescript`, `rust`
 
 - `💾` **`chip8 emulator`**<br>
 \\___[ emulator simulating vintage program files on modern systems<br>
